@@ -9,9 +9,11 @@
   "author": "Chonnawee C.",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.15.1",
     "express": "^4.14.0",
     "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react-dom": "^0.14.7",
+    "react-router": "^2.0.0"
   },
   "devDependencies": {
     "babel": "^6.5.2",
